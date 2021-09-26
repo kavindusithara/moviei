@@ -150,13 +150,15 @@ a.movie-item:hover {
   z-index: 1;
 }
 
-.btn i {
-  margin-right: 0.8rem;
-}
+
 
 .btn-hover:hover::before {
   width: 100%;
 } */
+
+.btn i {
+  margin-right: 0.8rem;
+}
 
 .mobile-menu {
   --size: 30px;
